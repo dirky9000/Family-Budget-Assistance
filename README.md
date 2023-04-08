@@ -5,3 +5,5 @@ Family ID number (int)
 Number in family (int)  
 Income (float)  
 Total debts (float)  
+
+[This link explains the full project in more detail](https://github.com/dirky9000/Family-Budget-Assistance/blob/main/docs/Family-Budget-Assistance-Rubric.pdf)
