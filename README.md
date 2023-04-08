@@ -6,4 +6,8 @@ Number in family (int)
 Income (float)  
 Total debts (float)  
 
+## Rubric 
 [This link explains the full project in more detail](https://github.com/dirky9000/Family-Budget-Assistance/blob/main/docs/Family-Budget-Assistance-Rubric.pdf)
+
+## Pseudocode 
+[This link shows the pseudocode for this project](https://github.com/dirky9000/Family-Budget-Assistance/blob/main/docs/Family-Budget-Assistance-Pseudocode)
