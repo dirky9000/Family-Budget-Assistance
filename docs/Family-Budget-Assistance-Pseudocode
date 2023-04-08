@@ -1,0 +1,12 @@
+Start
+  * Input family ID number
+  * Input amount of people in family
+  * Input annual income
+  * Input total debt
+  * Display header
+  * Calculate expected living expenses
+  * Calculate monthly payment
+  * Calculate savings
+  * Calculate service fee
+  * Display ID number, amount of people in family, annual income, total debt, expected living expenses, monthly payment, savings, and service fee
+End
