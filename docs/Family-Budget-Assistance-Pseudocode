@@ -1,8 +1,8 @@
 Start
-  * Input family ID number
-  * Input amount of people in family
-  * Input annual income
-  * Input total debt
+  * Prompt user to enter family ID number
+  * Prompt user to enter amount of people in family
+  * Prompt user to enter annual income
+  * Prompt user to enter total debt
   * Calculate expected living expenses
   * Calculate monthly payment
   * Calculate savings
